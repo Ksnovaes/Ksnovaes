@@ -3,7 +3,7 @@
 <p>🎓 Analysis and Systems Development student at <a href="https://www.uniceub.br/">UniCEUB</a></p>
 <p>📚 Currently studying the following things:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,react,postgres,mysql,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nestjs,javascript,react,postgres,mysql,mongodb,docker)](https://skillicons.dev)
 <hr> 
 <p>🧠 I also have knowledge on the following languages:</p>
 <p>- Java | SpringBoot (Web, Data JPA)</p>
