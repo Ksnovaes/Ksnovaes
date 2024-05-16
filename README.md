@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub!</h1>
-<h3>My name is Kauã, at the moment trying to be Full Stack Developer</h3>
+<h3>My name is Kauã, at the moment trying to be a Back-end Developer</h3>
 <p>🎓 Analysis and Systems Development student at <a href="https://www.uniceub.br/">UniCEUB</a></p>
 <p>📚 Currently studying the following things:</p>
 
